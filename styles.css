@@ -25,6 +25,7 @@
 	bottom:25px;
 	right:25px;
 	border:25px solid rgb(255, 255, 0);
+	margin:25px;
 }
 #nearInner{
 	width:150px;
@@ -44,6 +45,7 @@
 	bottom:25px;
 	right:25px;
 	border:25px;
+	margin:25px;
 }
 #innermost{
 	width:50px;
