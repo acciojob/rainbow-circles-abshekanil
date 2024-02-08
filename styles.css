@@ -44,7 +44,7 @@
 	position:absolute;
 	bottom:25px;
 	right:25px;
-	border:25px;
+	border:25px solid rgb(0, 0, 255);
 	margin:25px;
 }
 #innermost{
